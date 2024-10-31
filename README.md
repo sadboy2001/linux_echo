@@ -17,10 +17,15 @@
 Заголовки должны отображаться на странице в виде строк текста:
 
 Request Method: GET
+
 Request Source: ('127.0.0.1', 47296)
+
 Response Status: 200 OK
+
 header-name: header-value
+
 header-name: header-value
+
 ...
 
 Для того чтобы правильно выставить значение статуса нужно отправить числовое значение и фразу например 200 OK, 404 Not Found и т.д. самый оптимальный способ для поиска нужной фразы статуса это воспользоваться модулем http из стандартной библиотеки python https://docs.python.org/3/library/http.html
