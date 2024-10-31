@@ -16,11 +16,11 @@
 
 Заголовки должны отображаться на странице в виде строк текста:
 
-Request Method: GET
-Request Source: ('127.0.0.1', 47296)
-Response Status: 200 OK
-header-name: header-value
-header-name: header-value
+Request Method: GET 
+Request Source: ('127.0.0.1', 47296)  
+Response Status: 200 OK  
+header-name: header-value  
+header-name: header-value  
 
 ...
 
